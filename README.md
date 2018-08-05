@@ -1,6 +1,8 @@
 node-express-boilerplate
 =====================
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/node-express-boilerplate.svg)](https://www.guardrails.io)
+
 [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url]
 
 > A typescript nodejs express boilerplate server, w/ gulp as build system, includes release tooling, testing helpers and CI integration.
